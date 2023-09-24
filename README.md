@@ -13,7 +13,7 @@ For detailed rules and gameplay instructions for each version, please refer to t
 
 ## Single Player Mode with Artificial Intelligence
 
-We understand that sometimes it's not easy to find an opponent, so we've added an Artificial Intelligence component to the game, allowing you to enjoy a single-player mode with a challenging computer opponent. Test your skills against our AI and see if you can emerge victorious!
+I understand that sometimes it's not easy to find an opponent, so I've added an Artificial Intelligence component to the game, allowing you to enjoy a single-player mode with a challenging computer opponent. Test your skills against our AI and see if you can emerge victorious!
 
 ### Specifications
 
