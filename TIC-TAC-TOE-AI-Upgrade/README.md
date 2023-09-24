@@ -7,6 +7,20 @@
 * And now have fun! ^_^
 
 
+### ScreenShorts
+
+![1 1](https://github.com/Ishika63/TicTacToe_Game/assets/80192358/f28ad12a-6a96-4f90-a93f-eca615f772e9)
+
+![1 2](https://github.com/Ishika63/TicTacToe_Game/assets/80192358/3c8a15ad-75ce-4cb4-8eea-dc14340e566f)
+
+![1 3](https://github.com/Ishika63/TicTacToe_Game/assets/80192358/e1654dd3-b6de-41e8-be93-287bffbca993)
+
+![1 4](https://github.com/Ishika63/TicTacToe_Game/assets/80192358/05eb51ea-4544-4488-aab7-77040f37a949)
+
+
+
+
+
 ## *References*
 #### *Logic*
 - Optimal Tic Tac Toe Moves
