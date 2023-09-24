@@ -4,7 +4,7 @@ This project provides a fun and interactive way to play the classic game of TicT
 
 ## Types of TicTacToe
 
-We offer two distinct versions of TicTacToe to cater to different preferences and skill levels:
+It contains a TicTacToe game with two different types:
 
 1. **Basic TicTacToe**
 2. **Advanced TicTacToe**
