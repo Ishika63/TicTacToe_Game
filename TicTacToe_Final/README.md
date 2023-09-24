@@ -18,3 +18,12 @@ The positions of this 3 x 3 board is same as the **keypad on the right side of y
 
 #### You just have to input the position(1-9).
 
+![2 1](https://github.com/Ishika63/TicTacToe_Game/assets/80192358/ddb495e7-b747-4af1-abf2-c605095757e4)
+
+![2 2](https://github.com/Ishika63/TicTacToe_Game/assets/80192358/b76d8664-2984-45ac-be10-ab0117b46b2f)
+
+![2 3](https://github.com/Ishika63/TicTacToe_Game/assets/80192358/9059c2a0-d269-4d4e-8372-47149530452f)
+
+
+
+
